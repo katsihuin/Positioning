@@ -1,0 +1,25 @@
+/* Pon tu código css aqui */
+.box {
+	width: 200px;
+	height: 200px;
+	position: relative;
+
+}
+
+.red {
+	background-color: #ee3e64;
+}
+
+.blue {
+	background-color: #44accf;
+	position: absolute;
+	left:200px;
+}
+
+.green {
+	background-color: #b7d84b;
+}
+
+.yellow {
+	background-color: yellow;
+}

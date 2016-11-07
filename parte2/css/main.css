@@ -1,0 +1,28 @@
+/* Pon tu código css aqui */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.box {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	top:0px;
+	left:100px;
+	right:20px;
+	bottom:40px;
+}
+
+.red {
+	background-color: #ee3e64;
+}
+
+.blue {
+	background-color: #44accf;
+}
+
+.green {
+	background-color: #b7d84b;
+}
